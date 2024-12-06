@@ -27,30 +27,11 @@ I am a passionate data scientist with a strong interest in artificial intelligen
 - 👁️ **Computer Vision**  
 - 📈 **AI and Machine Learning in Healthcare**  
 
----
-
-### 💼 Professional Experience  
-
-- **Frontend Developer** | Hydra Social App (2023)  
-- **Researcher** | Intelligent Malaria Detection System using Deep Learning (YSU)  
-- *-----------** | Human Action Recognition System (SRM University)  
-
-
----
-
-### 🛠️ Skills  
-
-- **Languages**: Python, JavaScript
-
----
-
-
 ### 🔧 Current Projects  
 
 - 🛠️ Building an AI chatbot system for **Karai-karai Language Translation and Teaching**.  
 - 🛠️ Creating a **Kanuri Language Model** to preserve and teach the Kanuri language using AI.  
 - 🛠️Improving **J.A.V.I.S**  
-
 
 
 ### 🤝 Let's Connect  
