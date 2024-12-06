@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Muhammad Saleh Ibrahim  
 
+![AI and ML Banner](https://www.altengt.com/images/aiml/aiml_banner.jpg)
+
+
 🚀 **Innovative Professional | AI Enthusiast | Data Scientist | Developer | Youth Leader**  
 
 💻 **BSc Computer Science (Yobe State University)** | 🎓 **BCA Data Science (SRM University)**  
