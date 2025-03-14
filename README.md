@@ -36,10 +36,10 @@ I am a passionate data scientist with a strong interest in artificial intelligen
 
 ### 🤝 Let's Connect  
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/muhammadsalehibrahim](https://www.linkedin.com/in/m-s-ibraheem-034836222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 🌐 [LinkedIn]((https://www.linkedin.com/in/m-s-ibraheem-034836222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - 🐦 [Twitter](https://twitter.com/Muhseem01)  
 - 📩 Email: [muhseem0gmail.com](mailto:muhseem01@gmail.com)  
-- 💼 [Portfolio]([https://your-portfolio-link.com](https://m-s-ibrahim.github.io/PortfolioSite.m-s-ibrahim.github.io/myportfolio/html/index.html#))  
+- 💼 [Portfolio]((https://m-s-ibrahim.github.io/PortfolioSite.m-s-ibrahim.github.io/myportfolio/html/index.html#))  
 
 ---
 
